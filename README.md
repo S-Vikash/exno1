@@ -166,6 +166,5 @@ print(df_clean)
 <img width="508" height="622" alt="image" src="https://github.com/user-attachments/assets/16691cfb-43fc-445e-aadb-c0e26816ac58" />
 
 
-            <<include your coding and its corressponding output screen shots here>>
 # Result
           <<include your Result here>>
