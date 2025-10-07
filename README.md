@@ -167,4 +167,4 @@ print(df_clean)
 
 
 # Result
-          <<include your Result here>>
+Thus read the given data and performed data cleaning and saved the cleaned data to a file.
